@@ -1,13 +1,97 @@
-table,td{
-    border: 1px,solid,black;
-    border-collapse:collapse ;
+*{
     text-align: center;
-    padding: 5vw;
-    padding-top: 3vh;
-    padding-bottom: 3vh;
-    font-style: italic;
-    margin-left:auto ;
-    margin-right: auto;
-    width: 40vw;
-    height: 10vh;
-}
+    
+    }
+    table,td{
+        border: 1px,solid,black;
+        border-collapse:collapse ;
+        padding: 5vw;
+        padding-top: 3vh;
+        padding-bottom: 3vh;
+        font-style: italic;
+        margin-left:auto ;
+        margin-right: auto;
+        width: 40vw;
+        height: 10vh;
+    }
+    h1{
+        font-size: 15px;
+         text-align: center; 
+         color: brown;
+         font-style: italic;
+    }
+    #player1{
+        background-color: rgb(253, 150, 15);
+    }
+    .player2{
+    background-color: rgb(53, 43, 194);
+    }
+    .player3{
+    background-color: rgba(14, 161, 33, 0.973);
+    }
+    .player4{
+        background-color: rgb(109, 33, 180);
+    }
+    .player5{
+        background-color: yellow;
+    }
+    .player6{
+        background-color:rgb(107, 206, 9);
+    }
+    .player7{
+        background-color:rgba(228, 184, 127, 0.76);
+    }
+    .player8{
+        background-color:hotpink;
+    }
+    .player9{
+        background-color: aqua;
+    }
+    .player10{
+        background-color:rgb(250, 53, 4);
+    }
+    .player11{
+        background-color:rgb(163, 151, 173);
+    }
+    .player12{
+        background-color: rgba(9, 126, 9, 0.76);
+    }
+    .player13{
+        background-color:rgb(211, 200, 107);
+    }
+    .player14{
+        background-color:rgb(57, 93, 94);
+    }
+    .player15{
+        background-color:rgb(48, 233, 48);
+    }
+    .player16{
+        background-color:rgb(4, 248, 4);
+    }
+    .player17{
+        background-color:rgb(81, 107, 107);
+    }
+    .player18{
+        background-color:rgb(110, 47, 170);
+    }
+    .player19{
+        background-color:rgb(56, 174, 179);
+    }
+    .player20{
+        background-color: rgba(139, 119, 36, 0.664);
+    }
+    .player21{
+        background-color:rgb(201, 69, 69);
+    }
+    .player22{
+        background-color:rgba(255, 225, 191, 0.637);
+    }
+    .player23{
+        background-color: rgb(0, 128, 0);
+    }
+    .player24{
+        background-color:coral;
+    }
+    .player25{
+        background-color:darkorange;
+    }
